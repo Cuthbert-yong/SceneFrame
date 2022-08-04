@@ -1,3 +1,8 @@
+# 写在前面
+
+本项目基本完全照搬洁哥框架https://github.com/Strelizia02/AngelinaFrame  
+我仅仅添加或修改一小部分功能自用
+
 # 项目描述
 
 本项目仅为简化QQBot的开发流程，并非直接提供相关QQ协议，框架内置了[Mirai](https://github.com/mamoe/mirai)框架。
